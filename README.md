@@ -4,13 +4,16 @@
     width="100%"
   />
 </p>
-### More about me 
--** My name is Michael
--** Im 16yo
 
-### Contacts
--** discord :mk3ang8l
--** email: wobligo@gmail.com
+## More about me
 
-only reach out for questions and project i only take usdt 
+- **Name:** Michael  
+- **Age:** 16 years old  
 
+##  Contacts
+
+- **Discord:** mk3ang8l  
+- **Email:** wobligo@gmail.com  
+
+>  Only reach out for **questions or projects**  
+>  I only accept **USDT**
