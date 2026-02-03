@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/Mk3Ang8l/Mk3Ang8l/blob/main/18e2ad83b882cee8be192754e245bb9e.gif?raw=true"
+    src="https://github.com/Mk3Ang8l/Mk3Ang8l/blob/main/e48e9e7946a743864a2984da42499019.gif"
     width="100%"
   />
 </p>
